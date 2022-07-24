@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\GET and SET\bin\Debug\GET and SET.exe.config
+C:\Users\Clearance Morumudi\source\repos\GET and SET\bin\Debug\GET and SET.exe
+C:\Users\Clearance Morumudi\source\repos\GET and SET\bin\Debug\GET and SET.pdb
+C:\Users\Clearance Morumudi\source\repos\GET and SET\obj\Debug\GET and SET.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\GET and SET\obj\Debug\GET and SET.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\GET and SET\obj\Debug\GET and SET.exe
+C:\Users\Clearance Morumudi\source\repos\GET and SET\obj\Debug\GET and SET.pdb

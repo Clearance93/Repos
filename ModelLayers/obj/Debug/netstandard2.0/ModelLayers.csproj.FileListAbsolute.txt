@@ -1,0 +1,9 @@
+C:\Users\Clearance Morumudi\source\repos\ModelLayers\bin\Debug\netstandard2.0\ModelLayers.deps.json
+C:\Users\Clearance Morumudi\source\repos\ModelLayers\bin\Debug\netstandard2.0\ModelLayers.dll
+C:\Users\Clearance Morumudi\source\repos\ModelLayers\bin\Debug\netstandard2.0\ModelLayers.pdb
+C:\Users\Clearance Morumudi\source\repos\ModelLayers\obj\Debug\netstandard2.0\ModelLayers.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\ModelLayers\obj\Debug\netstandard2.0\ModelLayers.AssemblyInfoInputs.cache
+C:\Users\Clearance Morumudi\source\repos\ModelLayers\obj\Debug\netstandard2.0\ModelLayers.AssemblyInfo.cs
+C:\Users\Clearance Morumudi\source\repos\ModelLayers\obj\Debug\netstandard2.0\ModelLayers.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\ModelLayers\obj\Debug\netstandard2.0\ModelLayers.dll
+C:\Users\Clearance Morumudi\source\repos\ModelLayers\obj\Debug\netstandard2.0\ModelLayers.pdb

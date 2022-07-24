@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\memorial\bin\Debug\memorial.exe.config
+C:\Users\Clearance Morumudi\source\repos\memorial\bin\Debug\memorial.exe
+C:\Users\Clearance Morumudi\source\repos\memorial\bin\Debug\memorial.pdb
+C:\Users\Clearance Morumudi\source\repos\memorial\obj\Debug\memorial.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\memorial\obj\Debug\memorial.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\memorial\obj\Debug\memorial.exe
+C:\Users\Clearance Morumudi\source\repos\memorial\obj\Debug\memorial.pdb

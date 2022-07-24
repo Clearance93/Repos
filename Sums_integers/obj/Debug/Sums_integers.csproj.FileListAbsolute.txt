@@ -1,0 +1,6 @@
+C:\Users\Clearance Morumudi\source\repos\Sums_integers\bin\Debug\Sums_integers.exe.config
+C:\Users\Clearance Morumudi\source\repos\Sums_integers\bin\Debug\Sums_integers.exe
+C:\Users\Clearance Morumudi\source\repos\Sums_integers\bin\Debug\Sums_integers.pdb
+C:\Users\Clearance Morumudi\source\repos\Sums_integers\obj\Debug\Sums_integers.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Sums_integers\obj\Debug\Sums_integers.exe
+C:\Users\Clearance Morumudi\source\repos\Sums_integers\obj\Debug\Sums_integers.pdb

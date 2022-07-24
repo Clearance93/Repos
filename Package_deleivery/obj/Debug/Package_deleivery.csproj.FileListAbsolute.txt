@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Package_deleivery\bin\Debug\Package_deleivery.exe.config
+C:\Users\Clearance Morumudi\source\repos\Package_deleivery\bin\Debug\Package_deleivery.exe
+C:\Users\Clearance Morumudi\source\repos\Package_deleivery\bin\Debug\Package_deleivery.pdb
+C:\Users\Clearance Morumudi\source\repos\Package_deleivery\obj\Debug\Package_deleivery.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Package_deleivery\obj\Debug\Package_deleivery.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Package_deleivery\obj\Debug\Package_deleivery.exe
+C:\Users\Clearance Morumudi\source\repos\Package_deleivery\obj\Debug\Package_deleivery.pdb

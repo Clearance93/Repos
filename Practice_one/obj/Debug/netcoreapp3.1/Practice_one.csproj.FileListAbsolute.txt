@@ -1,0 +1,13 @@
+C:\Users\Clearance Morumudi\source\repos\Practice_one\bin\Debug\netcoreapp3.1\Practice_one.exe
+C:\Users\Clearance Morumudi\source\repos\Practice_one\bin\Debug\netcoreapp3.1\Practice_one.deps.json
+C:\Users\Clearance Morumudi\source\repos\Practice_one\bin\Debug\netcoreapp3.1\Practice_one.runtimeconfig.json
+C:\Users\Clearance Morumudi\source\repos\Practice_one\bin\Debug\netcoreapp3.1\Practice_one.runtimeconfig.dev.json
+C:\Users\Clearance Morumudi\source\repos\Practice_one\bin\Debug\netcoreapp3.1\Practice_one.dll
+C:\Users\Clearance Morumudi\source\repos\Practice_one\bin\Debug\netcoreapp3.1\Practice_one.pdb
+C:\Users\Clearance Morumudi\source\repos\Practice_one\obj\Debug\netcoreapp3.1\Practice_one.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Practice_one\obj\Debug\netcoreapp3.1\Practice_one.AssemblyInfoInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Practice_one\obj\Debug\netcoreapp3.1\Practice_one.AssemblyInfo.cs
+C:\Users\Clearance Morumudi\source\repos\Practice_one\obj\Debug\netcoreapp3.1\Practice_one.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Practice_one\obj\Debug\netcoreapp3.1\Practice_one.dll
+C:\Users\Clearance Morumudi\source\repos\Practice_one\obj\Debug\netcoreapp3.1\Practice_one.pdb
+C:\Users\Clearance Morumudi\source\repos\Practice_one\obj\Debug\netcoreapp3.1\Practice_one.genruntimeconfig.cache

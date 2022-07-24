@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Job_Class\bin\Debug\Job_Class.exe.config
+C:\Users\Clearance Morumudi\source\repos\Job_Class\bin\Debug\Job_Class.exe
+C:\Users\Clearance Morumudi\source\repos\Job_Class\bin\Debug\Job_Class.pdb
+C:\Users\Clearance Morumudi\source\repos\Job_Class\obj\Debug\Job_Class.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Job_Class\obj\Debug\Job_Class.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Job_Class\obj\Debug\Job_Class.exe
+C:\Users\Clearance Morumudi\source\repos\Job_Class\obj\Debug\Job_Class.pdb

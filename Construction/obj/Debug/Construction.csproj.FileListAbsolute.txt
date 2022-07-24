@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Construction\bin\Debug\Construction.exe.config
+C:\Users\Clearance Morumudi\source\repos\Construction\bin\Debug\Construction.exe
+C:\Users\Clearance Morumudi\source\repos\Construction\bin\Debug\Construction.pdb
+C:\Users\Clearance Morumudi\source\repos\Construction\obj\Debug\Construction.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Construction\obj\Debug\Construction.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Construction\obj\Debug\Construction.exe
+C:\Users\Clearance Morumudi\source\repos\Construction\obj\Debug\Construction.pdb

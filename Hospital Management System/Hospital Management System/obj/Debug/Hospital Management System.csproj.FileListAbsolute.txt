@@ -1,0 +1,12 @@
+C:\Users\Clearance Morumudi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\Clearance Morumudi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\Clearance Morumudi\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\Clearance Morumudi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Deshboard.resources
+C:\Users\Clearance Morumudi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form1.resources
+C:\Users\Clearance Morumudi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\Clearance Morumudi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\Clearance Morumudi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\Clearance Morumudi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\Clearance Morumudi\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources

@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Exercise 1\bin\Debug\Exercise 1.exe.config
+C:\Users\Clearance Morumudi\source\repos\Exercise 1\bin\Debug\Exercise 1.exe
+C:\Users\Clearance Morumudi\source\repos\Exercise 1\bin\Debug\Exercise 1.pdb
+C:\Users\Clearance Morumudi\source\repos\Exercise 1\obj\Debug\Exercise 1.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Exercise 1\obj\Debug\Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Exercise 1\obj\Debug\Exercise 1.exe
+C:\Users\Clearance Morumudi\source\repos\Exercise 1\obj\Debug\Exercise 1.pdb

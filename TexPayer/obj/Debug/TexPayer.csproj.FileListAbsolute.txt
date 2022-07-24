@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\TexPayer\bin\Debug\TexPayer.exe.config
+C:\Users\Clearance Morumudi\source\repos\TexPayer\bin\Debug\TexPayer.exe
+C:\Users\Clearance Morumudi\source\repos\TexPayer\bin\Debug\TexPayer.pdb
+C:\Users\Clearance Morumudi\source\repos\TexPayer\obj\Debug\TexPayer.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\TexPayer\obj\Debug\TexPayer.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\TexPayer\obj\Debug\TexPayer.exe
+C:\Users\Clearance Morumudi\source\repos\TexPayer\obj\Debug\TexPayer.pdb

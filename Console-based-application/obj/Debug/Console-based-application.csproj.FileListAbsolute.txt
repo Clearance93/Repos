@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Console-based-application\bin\Debug\Console-based-application.exe.config
+C:\Users\Clearance Morumudi\source\repos\Console-based-application\bin\Debug\Console-based-application.exe
+C:\Users\Clearance Morumudi\source\repos\Console-based-application\bin\Debug\Console-based-application.pdb
+C:\Users\Clearance Morumudi\source\repos\Console-based-application\obj\Debug\Console-based-application.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Console-based-application\obj\Debug\Console-based-application.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Console-based-application\obj\Debug\Console-based-application.exe
+C:\Users\Clearance Morumudi\source\repos\Console-based-application\obj\Debug\Console-based-application.pdb

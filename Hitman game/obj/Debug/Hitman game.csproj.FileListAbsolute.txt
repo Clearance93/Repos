@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Hitman game\bin\Debug\Hitman game.exe.config
+C:\Users\Clearance Morumudi\source\repos\Hitman game\bin\Debug\Hitman game.exe
+C:\Users\Clearance Morumudi\source\repos\Hitman game\bin\Debug\Hitman game.pdb
+C:\Users\Clearance Morumudi\source\repos\Hitman game\obj\Debug\Hitman game.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Hitman game\obj\Debug\Hitman game.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Hitman game\obj\Debug\Hitman game.exe
+C:\Users\Clearance Morumudi\source\repos\Hitman game\obj\Debug\Hitman game.pdb

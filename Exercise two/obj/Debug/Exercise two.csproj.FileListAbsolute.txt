@@ -1,0 +1,6 @@
+C:\Users\Clearance Morumudi\source\repos\Exercise two\bin\Debug\Exercise two.exe.config
+C:\Users\Clearance Morumudi\source\repos\Exercise two\bin\Debug\Exercise two.exe
+C:\Users\Clearance Morumudi\source\repos\Exercise two\bin\Debug\Exercise two.pdb
+C:\Users\Clearance Morumudi\source\repos\Exercise two\obj\Debug\Exercise two.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Exercise two\obj\Debug\Exercise two.exe
+C:\Users\Clearance Morumudi\source\repos\Exercise two\obj\Debug\Exercise two.pdb

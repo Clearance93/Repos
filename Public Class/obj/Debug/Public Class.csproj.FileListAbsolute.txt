@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Public Class\bin\Debug\Public Class.exe.config
+C:\Users\Clearance Morumudi\source\repos\Public Class\bin\Debug\Public Class.exe
+C:\Users\Clearance Morumudi\source\repos\Public Class\bin\Debug\Public Class.pdb
+C:\Users\Clearance Morumudi\source\repos\Public Class\obj\Debug\Public Class.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Public Class\obj\Debug\Public Class.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Public Class\obj\Debug\Public Class.exe
+C:\Users\Clearance Morumudi\source\repos\Public Class\obj\Debug\Public Class.pdb

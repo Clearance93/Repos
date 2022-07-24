@@ -1,0 +1,6 @@
+C:\Users\Clearance Morumudi\source\repos\Generating_random_number\bin\Debug\Generating_random_number.exe.config
+C:\Users\Clearance Morumudi\source\repos\Generating_random_number\bin\Debug\Generating_random_number.exe
+C:\Users\Clearance Morumudi\source\repos\Generating_random_number\bin\Debug\Generating_random_number.pdb
+C:\Users\Clearance Morumudi\source\repos\Generating_random_number\obj\Debug\Generating_random_number.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Generating_random_number\obj\Debug\Generating_random_number.exe
+C:\Users\Clearance Morumudi\source\repos\Generating_random_number\obj\Debug\Generating_random_number.pdb

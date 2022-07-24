@@ -1,0 +1,10 @@
+C:\Users\Clearance Morumudi\source\repos\Registration form\bin\Debug\Registration form.exe.config
+C:\Users\Clearance Morumudi\source\repos\Registration form\bin\Debug\Registration form.exe
+C:\Users\Clearance Morumudi\source\repos\Registration form\bin\Debug\Registration form.pdb
+C:\Users\Clearance Morumudi\source\repos\Registration form\obj\Debug\Registration form.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Registration form\obj\Debug\Registration_form.Form1.resources
+C:\Users\Clearance Morumudi\source\repos\Registration form\obj\Debug\Registration_form.Properties.Resources.resources
+C:\Users\Clearance Morumudi\source\repos\Registration form\obj\Debug\Registration form.csproj.GenerateResource.cache
+C:\Users\Clearance Morumudi\source\repos\Registration form\obj\Debug\Registration form.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Registration form\obj\Debug\Registration form.exe
+C:\Users\Clearance Morumudi\source\repos\Registration form\obj\Debug\Registration form.pdb

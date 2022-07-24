@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Binary_search\bin\Debug\Binary_search.exe.config
+C:\Users\Clearance Morumudi\source\repos\Binary_search\bin\Debug\Binary_search.exe
+C:\Users\Clearance Morumudi\source\repos\Binary_search\bin\Debug\Binary_search.pdb
+C:\Users\Clearance Morumudi\source\repos\Binary_search\obj\Debug\Binary_search.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Binary_search\obj\Debug\Binary_search.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Binary_search\obj\Debug\Binary_search.exe
+C:\Users\Clearance Morumudi\source\repos\Binary_search\obj\Debug\Binary_search.pdb

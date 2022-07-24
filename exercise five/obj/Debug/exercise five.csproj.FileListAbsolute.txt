@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\exercise five\bin\Debug\exercise five.exe.config
+C:\Users\Clearance Morumudi\source\repos\exercise five\bin\Debug\exercise five.exe
+C:\Users\Clearance Morumudi\source\repos\exercise five\bin\Debug\exercise five.pdb
+C:\Users\Clearance Morumudi\source\repos\exercise five\obj\Debug\exercise five.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\exercise five\obj\Debug\exercise five.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\exercise five\obj\Debug\exercise five.exe
+C:\Users\Clearance Morumudi\source\repos\exercise five\obj\Debug\exercise five.pdb

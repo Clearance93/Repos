@@ -1,0 +1,12 @@
+C:\Users\Clearance Morumudi\source\repos\Images and Videos\Images and Videos\bin\Debug\Database1.mdf
+C:\Users\Clearance Morumudi\source\repos\Images and Videos\Images and Videos\bin\Debug\Database1_log.ldf
+C:\Users\Clearance Morumudi\source\repos\Images and Videos\Images and Videos\bin\Debug\Images and Videos.exe.config
+C:\Users\Clearance Morumudi\source\repos\Images and Videos\Images and Videos\bin\Debug\Images and Videos.exe
+C:\Users\Clearance Morumudi\source\repos\Images and Videos\Images and Videos\bin\Debug\Images and Videos.pdb
+C:\Users\Clearance Morumudi\source\repos\Images and Videos\Images and Videos\obj\Debug\Images and Videos.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Images and Videos\Images and Videos\obj\Debug\Images_and_Videos.Form1.resources
+C:\Users\Clearance Morumudi\source\repos\Images and Videos\Images and Videos\obj\Debug\Images_and_Videos.Properties.Resources.resources
+C:\Users\Clearance Morumudi\source\repos\Images and Videos\Images and Videos\obj\Debug\Images and Videos.csproj.GenerateResource.cache
+C:\Users\Clearance Morumudi\source\repos\Images and Videos\Images and Videos\obj\Debug\Images and Videos.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Images and Videos\Images and Videos\obj\Debug\Images and Videos.exe
+C:\Users\Clearance Morumudi\source\repos\Images and Videos\Images and Videos\obj\Debug\Images and Videos.pdb

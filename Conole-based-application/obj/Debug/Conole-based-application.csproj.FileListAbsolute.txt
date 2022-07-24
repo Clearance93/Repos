@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Conole-based-application\bin\Debug\Conole-based-application.exe.config
+C:\Users\Clearance Morumudi\source\repos\Conole-based-application\bin\Debug\Conole-based-application.exe
+C:\Users\Clearance Morumudi\source\repos\Conole-based-application\bin\Debug\Conole-based-application.pdb
+C:\Users\Clearance Morumudi\source\repos\Conole-based-application\obj\Debug\Conole-based-application.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Conole-based-application\obj\Debug\Conole-based-application.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Conole-based-application\obj\Debug\Conole-based-application.exe
+C:\Users\Clearance Morumudi\source\repos\Conole-based-application\obj\Debug\Conole-based-application.pdb

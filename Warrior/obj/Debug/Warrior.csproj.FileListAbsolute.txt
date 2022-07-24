@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Warrior\bin\Debug\Warrior.exe.config
+C:\Users\Clearance Morumudi\source\repos\Warrior\bin\Debug\Warrior.exe
+C:\Users\Clearance Morumudi\source\repos\Warrior\bin\Debug\Warrior.pdb
+C:\Users\Clearance Morumudi\source\repos\Warrior\obj\Debug\Warrior.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Warrior\obj\Debug\Warrior.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Warrior\obj\Debug\Warrior.exe
+C:\Users\Clearance Morumudi\source\repos\Warrior\obj\Debug\Warrior.pdb

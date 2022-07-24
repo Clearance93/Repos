@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\REgistration\bin\Debug\REgistration.exe.config
+C:\Users\Clearance Morumudi\source\repos\REgistration\bin\Debug\REgistration.exe
+C:\Users\Clearance Morumudi\source\repos\REgistration\bin\Debug\REgistration.pdb
+C:\Users\Clearance Morumudi\source\repos\REgistration\obj\Debug\REgistration.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\REgistration\obj\Debug\REgistration.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\REgistration\obj\Debug\REgistration.exe
+C:\Users\Clearance Morumudi\source\repos\REgistration\obj\Debug\REgistration.pdb

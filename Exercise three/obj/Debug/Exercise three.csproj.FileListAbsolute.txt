@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Exercise three\bin\Debug\Exercise three.exe.config
+C:\Users\Clearance Morumudi\source\repos\Exercise three\bin\Debug\Exercise three.exe
+C:\Users\Clearance Morumudi\source\repos\Exercise three\bin\Debug\Exercise three.pdb
+C:\Users\Clearance Morumudi\source\repos\Exercise three\obj\Debug\Exercise three.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Exercise three\obj\Debug\Exercise three.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Exercise three\obj\Debug\Exercise three.exe
+C:\Users\Clearance Morumudi\source\repos\Exercise three\obj\Debug\Exercise three.pdb

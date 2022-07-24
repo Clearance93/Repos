@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Temperature_taker\bin\Debug\Temperature_taker.exe.config
+C:\Users\Clearance Morumudi\source\repos\Temperature_taker\bin\Debug\Temperature_taker.exe
+C:\Users\Clearance Morumudi\source\repos\Temperature_taker\bin\Debug\Temperature_taker.pdb
+C:\Users\Clearance Morumudi\source\repos\Temperature_taker\obj\Debug\Temperature_taker.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Temperature_taker\obj\Debug\Temperature_taker.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Temperature_taker\obj\Debug\Temperature_taker.exe
+C:\Users\Clearance Morumudi\source\repos\Temperature_taker\obj\Debug\Temperature_taker.pdb

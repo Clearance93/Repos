@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\EntryPoint\bin\Debug\EntryPoint.exe.config
+C:\Users\Clearance Morumudi\source\repos\EntryPoint\bin\Debug\EntryPoint.exe
+C:\Users\Clearance Morumudi\source\repos\EntryPoint\bin\Debug\EntryPoint.pdb
+C:\Users\Clearance Morumudi\source\repos\EntryPoint\obj\Debug\EntryPoint.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\EntryPoint\obj\Debug\EntryPoint.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\EntryPoint\obj\Debug\EntryPoint.exe
+C:\Users\Clearance Morumudi\source\repos\EntryPoint\obj\Debug\EntryPoint.pdb

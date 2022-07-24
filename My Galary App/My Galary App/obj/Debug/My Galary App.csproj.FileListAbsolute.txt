@@ -1,0 +1,10 @@
+C:\Users\Clearance Morumudi\source\repos\My Galary App\My Galary App\bin\Debug\My Galary App.exe.config
+C:\Users\Clearance Morumudi\source\repos\My Galary App\My Galary App\bin\Debug\My Galary App.exe
+C:\Users\Clearance Morumudi\source\repos\My Galary App\My Galary App\bin\Debug\My Galary App.pdb
+C:\Users\Clearance Morumudi\source\repos\My Galary App\My Galary App\obj\Debug\My Galary App.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\My Galary App\My Galary App\obj\Debug\My_Galary_App.Form1.resources
+C:\Users\Clearance Morumudi\source\repos\My Galary App\My Galary App\obj\Debug\My_Galary_App.Properties.Resources.resources
+C:\Users\Clearance Morumudi\source\repos\My Galary App\My Galary App\obj\Debug\My Galary App.csproj.GenerateResource.cache
+C:\Users\Clearance Morumudi\source\repos\My Galary App\My Galary App\obj\Debug\My Galary App.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\My Galary App\My Galary App\obj\Debug\My Galary App.exe
+C:\Users\Clearance Morumudi\source\repos\My Galary App\My Galary App\obj\Debug\My Galary App.pdb

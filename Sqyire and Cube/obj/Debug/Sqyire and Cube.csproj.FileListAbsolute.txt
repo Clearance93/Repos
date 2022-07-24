@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Sqyire and Cube\bin\Debug\Sqyire and Cube.exe.config
+C:\Users\Clearance Morumudi\source\repos\Sqyire and Cube\bin\Debug\Sqyire and Cube.exe
+C:\Users\Clearance Morumudi\source\repos\Sqyire and Cube\bin\Debug\Sqyire and Cube.pdb
+C:\Users\Clearance Morumudi\source\repos\Sqyire and Cube\obj\Debug\Sqyire and Cube.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Sqyire and Cube\obj\Debug\Sqyire and Cube.exe
+C:\Users\Clearance Morumudi\source\repos\Sqyire and Cube\obj\Debug\Sqyire and Cube.pdb
+C:\Users\Clearance Morumudi\source\repos\Sqyire and Cube\obj\Debug\Sqyire and Cube.csprojAssemblyReference.cache

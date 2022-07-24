@@ -1,0 +1,7 @@
+C:\Users\Clearance Morumudi\source\repos\Students\bin\Debug\Students.exe.config
+C:\Users\Clearance Morumudi\source\repos\Students\bin\Debug\Students.exe
+C:\Users\Clearance Morumudi\source\repos\Students\bin\Debug\Students.pdb
+C:\Users\Clearance Morumudi\source\repos\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Students\obj\Debug\Students.exe
+C:\Users\Clearance Morumudi\source\repos\Students\obj\Debug\Students.pdb

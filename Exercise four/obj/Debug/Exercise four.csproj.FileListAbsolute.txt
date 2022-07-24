@@ -1,0 +1,6 @@
+C:\Users\Clearance Morumudi\source\repos\Exercise four\bin\Debug\Exercise four.exe.config
+C:\Users\Clearance Morumudi\source\repos\Exercise four\bin\Debug\Exercise four.exe
+C:\Users\Clearance Morumudi\source\repos\Exercise four\bin\Debug\Exercise four.pdb
+C:\Users\Clearance Morumudi\source\repos\Exercise four\obj\Debug\Exercise four.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Exercise four\obj\Debug\Exercise four.exe
+C:\Users\Clearance Morumudi\source\repos\Exercise four\obj\Debug\Exercise four.pdb

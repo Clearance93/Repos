@@ -1,0 +1,10 @@
+C:\Users\Clearance Morumudi\source\repos\Application_Form\Application_Form\bin\Debug\Application_Form.exe.config
+C:\Users\Clearance Morumudi\source\repos\Application_Form\Application_Form\bin\Debug\Application_Form.exe
+C:\Users\Clearance Morumudi\source\repos\Application_Form\Application_Form\bin\Debug\Application_Form.pdb
+C:\Users\Clearance Morumudi\source\repos\Application_Form\Application_Form\obj\Debug\Application_Form.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Application_Form\Application_Form\obj\Debug\Application_Form.Form1.resources
+C:\Users\Clearance Morumudi\source\repos\Application_Form\Application_Form\obj\Debug\Application_Form.Properties.Resources.resources
+C:\Users\Clearance Morumudi\source\repos\Application_Form\Application_Form\obj\Debug\Application_Form.csproj.GenerateResource.cache
+C:\Users\Clearance Morumudi\source\repos\Application_Form\Application_Form\obj\Debug\Application_Form.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Application_Form\Application_Form\obj\Debug\Application_Form.exe
+C:\Users\Clearance Morumudi\source\repos\Application_Form\Application_Form\obj\Debug\Application_Form.pdb

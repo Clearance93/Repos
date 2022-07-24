@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F18C1725-DB3D-4649-8E1A-23B8F26AF3D7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Virtual_Ass_Teach</RootNamespace>
+    <AssemblyName>Virtual_Ass_Teach</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ColorTheme.cs" />
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DLLImportAttribute.cs" />
+    <Compile Include="Forms\Admin Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin Registration.Designer.cs">
+      <DependentUpon>Admin Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Admin_Dashboard.Designer.cs">
+      <DependentUpon>Admin_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Assignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Assignment.Designer.cs">
+      <DependentUpon>Assignment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Assignment_Dates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Assignment_Dates.Designer.cs">
+      <DependentUpon>Assignment_Dates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Assignment_Feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Assignment_Feedback.Designer.cs">
+      <DependentUpon>Assignment_Feedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Assignment_MArks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Assignment_MArks.Designer.cs">
+      <DependentUpon>Assignment_MArks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Assignment_Updates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Assignment_Updates.Designer.cs">
+      <DependentUpon>Assignment_Updates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Attendance.Designer.cs">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Authorized_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Authorized_dashboard.Designer.cs">
+      <DependentUpon>Authorized_dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Authorized_only.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Authorized_only.Designer.cs">
+      <DependentUpon>Authorized_only.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Authorized_Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Authorized_Registration.Designer.cs">
+      <DependentUpon>Authorized_Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Documents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Documents.Designer.cs">
+      <DependentUpon>Documents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Educational.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Educational.Designer.cs">
+      <DependentUpon>Educational.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Learner%27s_Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Learner%27s_Register.Designer.cs">
+      <DependentUpon>Learner%27s_Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Learners_Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Learners_Registration.Designer.cs">
+      <DependentUpon>Learners_Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Learner_Educational_Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Learner_Educational_Information.Designer.cs">
+      <DependentUpon>Learner_Educational_Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Learner_Registration_Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Learner_Registration_Information.Designer.cs">
+      <DependentUpon>Learner_Registration_Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Memorundum_upload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Memorundum_upload.Designer.cs">
+      <DependentUpon>Memorundum_upload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Previous_Question_Paper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Previous_Question_Paper.Designer.cs">
+      <DependentUpon>Previous_Question_Paper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Virtual_Classes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Virtual_Classes.Designer.cs">
+      <DependentUpon>Virtual_Classes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Virtual_Teaching.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Virtual_Teaching.Designer.cs">
+      <DependentUpon>Virtual_Teaching.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Signup_Reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Signup_Reg.Designer.cs">
+      <DependentUpon>Signup_Reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemeColor.cs" />
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin Registration.resx">
+      <DependentUpon>Admin Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Admin_Dashboard.resx">
+      <DependentUpon>Admin_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Assignment.resx">
+      <DependentUpon>Assignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Assignment_Dates.resx">
+      <DependentUpon>Assignment_Dates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Assignment_Feedback.resx">
+      <DependentUpon>Assignment_Feedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Assignment_MArks.resx">
+      <DependentUpon>Assignment_MArks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Assignment_Updates.resx">
+      <DependentUpon>Assignment_Updates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Attendance.resx">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Authorized_dashboard.resx">
+      <DependentUpon>Authorized_dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Authorized_only.resx">
+      <DependentUpon>Authorized_only.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Authorized_Registration.resx">
+      <DependentUpon>Authorized_Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Documents.resx">
+      <DependentUpon>Documents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Educational.resx">
+      <DependentUpon>Educational.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Learner%27s_Register.resx">
+      <DependentUpon>Learner%27s_Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Learners_Registration.resx">
+      <DependentUpon>Learners_Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Learner_Educational_Information.resx">
+      <DependentUpon>Learner_Educational_Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Learner_Registration_Information.resx">
+      <DependentUpon>Learner_Registration_Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Memorundum_upload.resx">
+      <DependentUpon>Memorundum_upload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Previous_Question_Paper.resx">
+      <DependentUpon>Previous_Question_Paper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Virtual_Classes.resx">
+      <DependentUpon>Virtual_Classes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Virtual_Teaching.resx">
+      <DependentUpon>Virtual_Teaching.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Signup_Reg.resx">
+      <DependentUpon>Signup_Reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-rounded-down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %289%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %287%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %286%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %2819%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %2820%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %2820%291.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %285%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VAT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VAT1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %288%29.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
